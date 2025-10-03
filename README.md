@@ -1,8 +1,3 @@
-# Lab10-Web-API
-
-67543210037-7 ปวริศ​ คูณศรี
-## การใช้งาน
-
 ### READ (GET) อ่าน/ค้นหาข้อมูลสินค้า
 #### ดึงข้อมูลสินค้าทั้งหมด
 Method GET
@@ -24,20 +19,23 @@ Method GET
 Method POST
 api/appliances 
 สร้างสินค้าใหม่ โดยใส่ข้อมูล JSON ลงใน BODY
-<img width="3600" height="2214" alt="image" src="https://github.com/user-attachments/assets/a317d756-515e-451b-ace1-46fe1eb68561" />
+<img width="577" height="709" alt="image" src="https://github.com/user-attachments/assets/68d799fa-066b-4deb-b2a1-598bee1177ac" />
+
 ตัวอย่างการทำงาน
 
 ### UPDATE(PUT/PATCH) - แก้ไขสินค้า
 Method PUT/PATCH
 /api/appliances/{id}
 แก้ไขข้อมูลสินค้าตาม ID
-<img width="3600" height="2214" alt="image" src="https://github.com/user-attachments/assets/9f80c8fc-07fc-4e05-a63c-023c068100b8" />
+<img width="777" height="737" alt="image" src="https://github.com/user-attachments/assets/83989ca9-9f79-4205-a08e-cf3f917b08cd" />
+
 ตัวอย่างการทำงาน
 
 ### DELETE(DELETE) - ลบสินค้า
 Method DELETE 
 api/appliances/{id}
 ลบสินค้าตาม ID
-<img width="3600" height="2214" alt="image" src="https://github.com/user-attachments/assets/0a129631-1602-4d2f-a283-c6cb43ceb888" />
+<img width="616" height="729" alt="image" src="https://github.com/user-attachments/assets/8f3b5dd1-0f88-4cfa-b633-d1ee63884227" />
+
 ตัวอย่างการทำงาน เมื่อทำการลบแล้วจะได้ respond กลับมาเป็น data ซึ่งโดนลบไปแล้วเลยแสดงผลว่า null
 
