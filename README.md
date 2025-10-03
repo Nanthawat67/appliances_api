@@ -8,7 +8,8 @@
 Method GET
 /api/appliances 
 ดึงสินค้าทั้งหมด
-<img width="3600" height="2214" alt="image" src="https://github.com/user-attachments/assets/5bebf6ab-9088-4bba-9b87-cb0345df8d8a" />
+<img width="3600" height="2214" alt="image" src="<img width="850" height="892" alt="image" src="https://github.com/user-attachments/assets/bf100cb5-5017-49ff-b639-8374427d3a87" />
+" />
 ตัวอย่างการทำงาน
 
 #### ดึงข้อมูลสินค้าทีละรายการตาม ID
