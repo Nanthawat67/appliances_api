@@ -8,15 +8,16 @@
 Method GET
 /api/appliances 
 ดึงสินค้าทั้งหมด
-<img width="3600" height="2214" alt="image" src="<img width="850" height="892" alt="image" src="https://github.com/user-attachments/assets/bf100cb5-5017-49ff-b639-8374427d3a87" />
-" />
+<img width="850" height="892" alt="image" src="https://github.com/user-attachments/assets/bf100cb5-5017-49ff-b639-8374427d3a87" />
+
 ตัวอย่างการทำงาน
 
 #### ดึงข้อมูลสินค้าทีละรายการตาม ID
 Method GET
 /api/appliances/{id} 
 ดึงข้อมูลสินค้าตาม ID 
-<img width="3600" height="2214" alt="image" src="https://github.com/user-attachments/assets/4b2965be-c776-43ee-bc1d-3af1f8620c51" />
+<img width="617" height="579" alt="image" src="https://github.com/user-attachments/assets/e3b50474-331d-485b-b3f8-18d505320723" />
+
 ตัวอย่างการทำงาน
 
 ### CREATE(POST) - สร้างสินค้าใหม่
